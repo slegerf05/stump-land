@@ -2,14 +2,20 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+state,State,
+county,County
+city,City
 description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+physical_description,Physical Description,
+original_collection,Original Collection,
+temporal_coverage,Temporal
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
+rightsholder,Rights Holder,
 rightsstatement,Rights Statement,,true
