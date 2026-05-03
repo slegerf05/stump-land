@@ -14,6 +14,6 @@ credits: true
 
 ## About the Collection
 
-Stumpland is a narrative project meant to tie together two threads of Northwoods history--the environmental impact of logging in the 19th and 20th centuries, and the failed farming ventures encouraged on that land after logging industries stripped the land of its old growth forests. The collection will invite questions about land-use public policy, laissez-faire attitudes towards natural resource extraction, and the reciprocal relationship of people and the natural world. 
+Stumpland is a narrative project meant to tie together two threads of Northwoods history--the environmental impact of logging in the 19th and 20th centuries, and the failed farming ventures encouraged on that land after logging companies stripped the land of its old growth forests. The collection invites questions about land-use public policy, laissez-faire attitudes towards natural resource extraction, and the reciprocal relationship between people and the natural world. 
 
 This collection was created for Dr. Blalock's Information Organization class at the University of Iowa in Spring 2026. It brings together images from the Wisconsin Historical Society and the New York Public Library Digital Collections. 
