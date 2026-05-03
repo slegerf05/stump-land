@@ -14,14 +14,6 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Stumpland is a narrative project meant to tie together two threads of Northwoods history--the environmental impact of logging in the 19th and 20th centuries, and the failed farming ventures encouraged on that land after logging industries stripped the land of its old growth forests. The collection will invite questions about land-use public policy, laissez-faire attitudes towards natural resource extraction, and the reciprocal relationship of people and the natural world. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This collection was created for Dr. Blalock's Information Organization class at the University of Iowa in Spring 2026. It brings together images from the Wisconsin Historical Society and the New York Public Library Digital Collections. 
