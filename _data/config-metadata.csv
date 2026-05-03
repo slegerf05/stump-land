@@ -12,10 +12,12 @@ latitude,Latitude
 longitude,Longitude
 physical_description,Physical Description,
 original_collection,Original Collection,
-temporal_coverage,Temporal
+temporal_coverage,Temporal Coverage,
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+filesize,File Size
+resolution,Resolution
 rightsholder,Rights Holder,
 rightsstatement,Rights Statement,,true
